@@ -1,3 +1,4 @@
 # COMP 7212 - Operating and Dist. Systems
 
-Course material
+- Course Instructor: Dr. Myounggyu Won 
+
